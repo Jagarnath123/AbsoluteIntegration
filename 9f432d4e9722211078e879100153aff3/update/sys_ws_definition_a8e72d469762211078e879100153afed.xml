@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_uri>/api/x_52573_absolute_0/assetinfo</base_uri>
+        <consumes>application/json,application/xml,text/xml</consumes>
+        <consumes_customized>false</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link/>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>AssetInfo</name>
+        <namespace>x_52573_absolute_0</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>assetinfo</service_id>
+        <short_description/>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-03 07:24:21</sys_created_on>
+        <sys_id>a8e72d469762211078e879100153afed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AssetInfo</sys_name>
+        <sys_package display_value="Absolute Integration" source="x_52573_absolute_0">9f432d4e9722211078e879100153aff3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Absolute Integration">9f432d4e9722211078e879100153aff3</sys_scope>
+        <sys_update_name>sys_ws_definition_a8e72d469762211078e879100153afed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-03 07:24:21</sys_updated_on>
+    </sys_ws_definition>
+</record_update>
